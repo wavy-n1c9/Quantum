@@ -1,0 +1,7 @@
+
+NER/cache_dir/
+NER/outputs
+NER/runs
+NER/.ipynb_checkpoints
+NER/inter/dev.txt
+NER/inter/test.txt
